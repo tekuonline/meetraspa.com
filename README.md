@@ -8,4 +8,5 @@ To get started, check out <http://meetraspa.com>!
 
 ## Copyright and license
 
-Code and documentation copyright 2016 Tek Nepal Code released under [the MIT license](LICENSE). Docs released under [Creative Commons](docs/LICENSE).
+Code and documentation copyright 2016 Tek Nepal 
+Code released under [the MIT license](LICENSE). Docs released under [Creative Commons](docs/LICENSE).

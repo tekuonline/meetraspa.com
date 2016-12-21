@@ -2,7 +2,7 @@
 // set some variables'
 if(isset($_POST['submit'])){
 $emailFrom = "admin@meetraspa.com";
-$emailTo = "np.teku@gmail.com";
+$emailTo = "";
 $subject = "Message from website";
 // grab the data being passed from the method="post" in the HTML form
 // and hold it in a variable
